@@ -1,2 +1,2 @@
 all:
-	gcc -std=c11 -lcrypto -Wextra -Wall -pedantic bitseal.c -o bitseal
+	gcc bitseal.c -o bitseal -std=c11 -lcrypto -Wextra -Wall -pedantic
