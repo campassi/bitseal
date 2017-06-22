@@ -2,9 +2,9 @@ bitseal
 ===
 
 performs key-stretching via specified number of sha256
-rounds on a given key
+rounds on a given input key
 
-inherently has the ability to protect private keys in 
+inherently has the ability to protect Bitcoin private keys in 
 the same way a timed safe operates.  by choosing a very 
 high number of rounds a private key may take considerable 
 time to retrieve.  for example: 2 trillion rounds will take
