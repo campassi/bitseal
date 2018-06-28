@@ -1,6 +1,8 @@
 bitseal
 ===
 
+The most secure method of Bitcoin address creation known to man
+
 performs key-stretching via specified number of sha256
 rounds on a given input key
 
