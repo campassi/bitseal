@@ -29,6 +29,9 @@ download the code:
 `git clone https://github.com/campassi/bitseal.git`
 
 edit bitseal.c and change the parameters to fit your liking
+
+`cd bitseal; vim bitseal.c`
+
 when complete, save and run make:
 
 `make`
