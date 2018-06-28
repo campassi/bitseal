@@ -8,10 +8,10 @@
 // UPDA; updates the status reporting every x sha rounds
 // #define PSWD "`~1!@#$%^&*9(0)-_=+[{]}|;:'abABzZ'><,.?/"
 
-#define PSWD "CleanAddress88**"
-#define RNDS 300000ULL
+#define PSWD "TestAddressXxYvwz"
+#define RNDS 3000000ULL
 #define STAT 1
-#define UPDA 2000000
+#define UPDA 500000
 
 #include<openssl/ec.h> // needed for all the EC functions
 #include<openssl/obj_mac.h> // some stuff about NID_secp256k1 in here
